@@ -1,0 +1,16 @@
+{
+    "name": "alkestore/app",
+    "description": "Aplikasi Kasir Toko Alat Kesehatan Alkestore",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^6.10",
+        "vlucas/phpdotenv": "^5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require-dev": {}
+}
