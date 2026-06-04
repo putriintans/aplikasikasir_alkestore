@@ -172,3 +172,9 @@ http://localhost/aplikasikasir_alkestore
 ## Repository
 
 https://github.com/putriintans/aplikasikasir_alkestore
+
+---
+
+## License
+
+This project was developed for academic and portfolio purposes.
